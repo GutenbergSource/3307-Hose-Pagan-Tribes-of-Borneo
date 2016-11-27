@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The Pagan Tribes of Borneo: A Description of Their Physical Moral and Intellectual Condition With Some Discussion of their Ethnic Relations</dc:title>
+      <dc:creator>Charles Hose</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2002-07-01</dc:publisher>
+      <dc:date>2002-07-01</dc:date>
+      <dc:rights>Copyright research:
+
+Year of Publication: 1912.Country of Publication: U.K.
+Authors:
+Charles Hose 1863–1929William McDougallA.C. Haddon (Alfred Cort) 1855–1940
+Photographers:
+W.H. Furness (William Henry) 1866–1920A.W. Nieuwenhuis (Anton Willem) 1864–1953 (Actually taken by J. Demmeni (no data))C.S. Myers (Charles Samual) 1873–1946C.G. Seligmann (Charles Gabriel) 1873–1940 (see C.G. Seligman)Harrison W. Smith (no data)A. Moor (no data)R. Shelford  (Robert Walter Campbell) 1872–1912</dc:rights>
+      <dc:subject>Ethnology—Borneo.</dc:subject>
+      <dc:subject>Material culture—Borneo.</dc:subject>
+      <dc:subject>Borneo—Social life and customs.</dc:subject>
+      <dc:identifier>pg:3307</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
